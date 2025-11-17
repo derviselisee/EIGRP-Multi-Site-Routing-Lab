@@ -99,3 +99,20 @@ Skills Demonstrated
 
 1
 <img width="1645" height="786" alt="Topolgy" src="https://github.com/user-attachments/assets/53f70d09-815a-4ef0-9eb1-08589b43b4a3" />
+2
+<img width="806" height="304" alt="R1 interfaces config 2" src="https://github.com/user-attachments/assets/c16637ba-3979-4d9e-8302-1a54bdc6f36d" />
+<img width="514" height="984" alt="R1 interfaces config " src="https://github.com/user-attachments/assets/3425459e-9938-400c-9f22-e2014b7b2221" />
+3
+<img width="878" height="357" alt="R2 interfaces config 2 " src="https://github.com/user-attachments/assets/c21598e9-7055-4f56-a6dc-a5838eaa98ac" />
+<img width="806" height="454" alt="R2 interfaces config 1" src="https://github.com/user-attachments/assets/07e0f93f-b1d8-4143-b8cf-27e86d5943db" />
+4
+<img width="844" height="613" alt="R3 eigrp configs and test " src="https://github.com/user-attachments/assets/66314958-3686-439b-b025-96577288252b" />
+<img width="934" height="630" alt="R2 eigrp configs" src="https://github.com/user-attachments/assets/b2efe043-170d-4b8d-b5b9-4746bf9dcb6f" />
+<img width="934" height="623" alt="r1 eigrp config and test " src="https://github.com/user-attachments/assets/b1b50ae8-51d8-4e83-ba18-e3b17f5d695f" />
+5
+<img width="615" height="123" alt="test connectivity on R3" src="https://github.com/user-attachments/assets/ccd4382e-b081-417a-aa4c-3b4b2e060219" />
+<img width="578" height="119" alt="test connectivity on R1" src="https://github.com/user-attachments/assets/496dcfdd-e526-4c4b-a1a0-6d6432ae4ca5" />
+
+
+
+
